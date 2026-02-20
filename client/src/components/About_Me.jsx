@@ -2,7 +2,7 @@ import alien from "../assets/alien_ungu_9.png";
 
 function About_Me() {
   const containerStyle = {
-    minHeight: "60vh",
+    minHeight: "50vh",
     margin: 0,
     display: "flex",
     alignItems: "center",

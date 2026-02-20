@@ -5,6 +5,7 @@ import Service from "./components/Service";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import About_Me from "./components/About_Me";
+import Review from "./components/Review";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <About_Me />
         <Project />
         <Service />
+        <Review />
         <Contact />
       </main>
       <Footer />

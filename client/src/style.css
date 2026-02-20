@@ -18,7 +18,9 @@ header {
   -moz-box-shadow: 1px 4px 8px 1px rgba(0, 0, 0, 0.41);
   /*background-color: #1A1233;
    z-index: 1;*/
-  z-index: -1;
+  z-index: 10;
+  position: fixed;
+  background-color: white;
 }
 
 nav {
@@ -98,7 +100,7 @@ main {
   justify-content: center;
   padding: 3rem;
   gap: 7rem;
-  height: auto;
+  height: 70vh;
 }
 .penjelasan {
   display: flex;
