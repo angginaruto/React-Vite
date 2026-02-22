@@ -36,3 +36,70 @@ The purpose of this project is to:
 ---
 
 ## 📂 Project Structure
+```
+React-Vite/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/angginaruto/React-Vite.git
+```
+
+### 2. Navigate into the project directory
+```bash
+cd React-Vite
+```
+
+### 3. Install dependencies
+```bash
+npm install
+```
+
+### 4. Run development server
+```bash
+npm run dev
+```
+
+The app will run locally on:
+```
+http://localhost:5173
+```
+
+---
+
+## 📚 What I Learned
+- Structuring a scalable React project  
+- Creating reusable components  
+- Managing UI layout using standard CSS  
+- Understanding Vite development workflow  
+- Improving debugging and development efficiency  
+
+---
+
+## 📷 Screenshots
+(Add project screenshots here)
+
+---
+
+## 🔗 Live Demo
+(Add deployment link here if available)
+
+---
+
+## 👨‍💻 Author
+Anggit
